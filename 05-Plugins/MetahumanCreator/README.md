@@ -6,7 +6,7 @@
 
 
 ## 02. Подключение плагина Metahuman Creator к проекту
-Подключить все плагины Metahuman к проект и перезапустить 
+Подключить все плагины Metahuman в проект и перезапустить 
 <img width="1375" height="728" alt="image" src="https://github.com/user-attachments/assets/8a700eef-fcfe-4eb6-8ba4-374ebfa1c07c" />
 
 
