@@ -1,6 +1,6 @@
 # 03. Environment
 
-Руководство по работе окружающей средой в UE5
+Руководство по работе с окружающей средой в UE5
 
 - [Environment](Environment/README.md)
 - [Lighting](Lighting/README.md)
