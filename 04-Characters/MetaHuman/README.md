@@ -1,1 +1,1 @@
-[Установка и подключение MetaHuman Plugin](../../05-плагины/MetaHuman/README.md)
+[Установка и подключение MetaHuman Plugin](../../05-Plugins/MetaHumanCreator/README.md)
