@@ -13,7 +13,7 @@
 или иную задачу.
 ---
 
-## 01. Project Settings
+## 01. Настройки проекта
 [Open Project Settings](01-Project-Settings/README.md)
 
 ## 02. Materials
