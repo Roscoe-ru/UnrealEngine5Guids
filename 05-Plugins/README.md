@@ -3,4 +3,4 @@
 Руководство по работе с плагинами в UE5
 
 
-- [Metahuman Creator](MetahumanCreator/README.md)
+- [Metahuman Creator 5.8](MetahumanCreator/README.md)
