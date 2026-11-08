@@ -1,5 +1,4 @@
-# Начало Работы
-Начальная настройка проекта при создании проекта в Unreal Engine 5 
+# Начало Работы -  базовая настройка проекта в UE5 
 Включение Use Hardware Ray Traced и Ray Traced Shadows
 <img width="1212" height="312" alt="image" src="https://github.com/user-attachments/assets/42232e78-b804-4320-94ad-7b035f71c595" />
  Выключение Auto Exposure и переключение в режим Manual
