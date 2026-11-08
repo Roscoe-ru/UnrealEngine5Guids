@@ -9,7 +9,7 @@
 
 
 
-## 01. Настройки проекта
+## 01. Project Settings
 [Open Project Settings](01-Project-Settings/README.md)
 
 ## 02. Materials
