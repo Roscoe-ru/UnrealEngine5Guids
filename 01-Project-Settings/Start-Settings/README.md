@@ -1,4 +1,4 @@
-# Start Settings -  базовая настройка проекта в UE5 
+# начало работы -  базовая настройка проекта в UE5 
 
 ## 01. Настройка Ray Tracing
 Включение Use Hardware Ray Traced и Ray Traced Shadows
