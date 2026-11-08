@@ -1,5 +1,15 @@
 # Начало Работы -  базовая настройка проекта в UE5 
+
+## Настройка Ray Tracing
+Задача: Включить поддержку аппаратной трассировки лучей и трассировки теней.
+Необходимо включить:
+
+Use Hardware Ray Tracing
+
+Ray Traced Shadows
+
 Включение Use Hardware Ray Traced и Ray Traced Shadows
+
 <img width="1212" height="312" alt="image" src="https://github.com/user-attachments/assets/42232e78-b804-4320-94ad-7b035f71c595" />
  Выключение Auto Exposure и переключение в режим Manual
 <img width="1207" height="81" alt="image" src="https://github.com/user-attachments/assets/97aeaa41-082a-4985-b079-8115e2f907f7" />
