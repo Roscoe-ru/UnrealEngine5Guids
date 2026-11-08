@@ -1,4 +1,4 @@
-# Подключение и установка плагина на UE5.8
+# Подключение и установка плагина Metahuman Creator на UE5.8
 
 ## 01. Установка плагина Metahuman Creator 
 Установить основные данные Metahuman Creator в Epic Games Launcher на UE5.8
