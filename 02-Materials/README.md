@@ -1,6 +1,6 @@
 # 02. Materials
 
-Collection of material creation guides and techniques.
+Руководство по работе с материалами в Unrela Engine 5 
 
 ## Subcategories
 
