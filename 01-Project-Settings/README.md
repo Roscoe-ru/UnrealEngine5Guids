@@ -3,7 +3,7 @@
 Руководство по настройкам проектов в Unreal Engine 5
 
 
-- [Начало работы](Start-Settings/README.md)
-- [Общие настройки](General-Settings/README.md)
-- [Рендер](Rendering/README.md)
+- [Start Settings](Start-Settings/README.md)
+- [General Settings](General-Settings/README.md)
+- [Rendering](Rendering/README.md)
   
