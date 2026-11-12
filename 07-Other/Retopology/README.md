@@ -1,6 +1,6 @@
-# 07. Other
+# 07. Retopology
 
-Дополнительные руководства 
+
 
 - [Fast Retopology  Decimate Blender](FastRetopology/README.md)
 
