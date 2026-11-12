@@ -28,7 +28,7 @@
 [Open AI](06-AI/README.md)
 
 ## 07. Other
-[OpenOther](06-Other/README.md)
+[OpenOther](07-Other/README.md)
 
 
 
