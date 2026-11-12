@@ -1,25 +1,30 @@
-# Начало работы -  базовая настройка проекта в UE5 
 
 
-В Blender: модификатор Decimate
+# Fast Retopology Decimate Blender
+Быстрая оптимизация сетки 3D-модели с помощью модификатора Decimate в Blender
 
-## 01. Настройка Ray Tracing
-Включение Use Hardware Ray Traced и Ray Traced Shadows
-<img width="1212" height="312" alt="image" src="https://github.com/user-attachments/assets/42232e78-b804-4320-94ad-7b035f71c595" />
 
-## 02. Настройка Auto Exposure
- Выключение Auto Exposure и переключение в режим Manual
-<img width="1207" height="81" alt="image" src="https://github.com/user-attachments/assets/97aeaa41-082a-4985-b079-8115e2f907f7" />
+## 01. Включение отображение статистики 
+Для отслеживания количества вершин и полигонов необходимо включить отображение статистики в Blender 
+- Viewport  Overlays -> Statistics ON
+<img width="366" height="240" alt="image" src="https://github.com/user-attachments/assets/e37c083e-e7f3-4d7d-9693-9ec1a9f8ebed" />
+<img width="263" height="180" alt="image" src="https://github.com/user-attachments/assets/5434937f-3598-4a93-a173-4bae0c6da4a6" />
 
-## 03. Настройка DirectX 12
- Проверить настройки Default RHI Directx12 и D3D12 перевести в SM6
-<img width="1216" height="451" alt="image" src="https://github.com/user-attachments/assets/9735caa5-4604-42bf-9d56-eb0efecde376" />
+## 02. Объединение дублирующих вершин 
+Удалить лишние вершины используя Merge By Distance
+- Выделить объект -> режим редактирования (tab) -> Merge (M)-> By Distance
+<img width="233" height="154" alt="image" src="https://github.com/user-attachments/assets/bf52c4c9-debc-4b5f-9ca4-dc673b09efe4" />
+<img width="225" height="27" alt="image" src="https://github.com/user-attachments/assets/9ed77e53-fdf1-43de-bea9-2d37e95c6ac1" />
 
-## 04. Настройка Frame Rate
- Указать Frame Rate для оптимизации проекта рекомендуемые значения 24-30
-<img width="1213" height="105" alt="image" src="https://github.com/user-attachments/assets/e265a568-cc3a-48cf-9573-d0ca5cc55497" />
+## 03. Добавление модификатора Decimate 
+- Добавлю модификатор Decimate к 3D-модели выставляя значение Ratio 0.1-0.2
+<img width="454" height="385" alt="image" src="https://github.com/user-attachments/assets/b2b46a71-b0af-494d-a77e-7bcf01cc885d" />
 
- ## 05. Настройка хранения Cache
- Проверить и указать пути хранения кэша в Editor Preference
-<img width="1288" height="317" alt="image" src="https://github.com/user-attachments/assets/63687f9c-6c16-4f11-974e-dd9fa3ff28e6" />
+## 4. Исправление бликов и заломов
+- Добавляю модификатор Shade Auto Smooth и WeightedNormal. Weight 100 , Keep Sharp On 
+- <img width="412" height="347" alt="image" src="https://github.com/user-attachments/assets/fabb60a1-f3f4-4b17-a29d-58d6c50eb061" />
 
+## 5. Применение модификаторов 
+Применяю модификаторы к 3D-модели в следующем порядке  Decimate -> Shade Auto Smooth  ->  WeightedNormal
+
+  
