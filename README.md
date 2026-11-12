@@ -24,6 +24,9 @@
 ## 05. Plugins
 [Open Plugins](05-Plugins/README.md)
 
+## 06. AI
+[Open AI](06-AI/README.md)
+
 ---
 
 # Правила ведения базы знаний
