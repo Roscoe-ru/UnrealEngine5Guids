@@ -3,7 +3,7 @@
 Руководство по работе с AI иснтрументами
 
 - [Generation](Generation/README.md)
-- [Optimization](Optimization/README.md)
+- [Retopology](Retopology/README.md)
   
 -  [Prompts](Prompts/README.md)
 
