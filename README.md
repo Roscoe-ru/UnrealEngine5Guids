@@ -27,6 +27,11 @@
 ## 06. AI
 [Open AI](06-AI/README.md)
 
+## 07. Other
+[OpenOther](06-Other/README.md)
+
+
+
 ---
 
 # Правила ведения базы знаний
